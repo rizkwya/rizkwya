@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Website: https://rizkwya.me
+
+Instagram: https://www.instagram.com/rizkwya
+
 <!--
 **killtherizk/killtherizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
