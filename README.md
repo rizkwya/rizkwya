@@ -9,7 +9,6 @@ I'm a reverse engineer with experience spanning startups to mid-sized companies.
 
   ![language](https://skillicons.dev/icons?i=cpp,lua,py,ts)
 </details>
-
 <details>
   <summary>tools</summary>
 
