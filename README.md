@@ -1,6 +1,6 @@
 Hello, I'm **Muhammad Rizki Apriliyanto** (**rizk**)
 
-I'm a reverse engineer with experience spanning startups to mid-sized companies. I have played a key role in the entire product design process, from ideation and wireframing to prototyping and final product delivery, all while collaborating efficiently with cross-functional teams.
+I'm a tech enthusiast with experience spanning startups companies. I have played a key role in the entire product design process, from ideation and wireframing to prototyping and final product delivery, all while collaborating efficiently with cross-functional teams.
 
 <details>
   <summary>language</summary>
