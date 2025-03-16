@@ -14,7 +14,7 @@ I'm a tech enthusiast with experience spanning startups companies. I have played
 
   <br>
 
-  ![tools](https://skillicons.dev/icons?i=windows,ubuntu,vscode,visualstudio)
+  ![tools](https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,visualstudio,robloxstudio&perline=3)
 </details>
 
 [website](https://rizkwya.me) - [instagram](https://www.instagram.com/rizkwya) - [youtube](https://www.youtube.com/@rizkwya)
