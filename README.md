@@ -7,7 +7,7 @@ I'm a tech enthusiast with experience spanning startups companies. I have played
 
   <br>
 
-  ![language](https://skillicons.dev/icons?i=cpp,lua,py,ts)
+  ![language](https://skillicons.dev/icons?i=cpp,lua,ts,py)
 </details>
 <details>
   <summary>tools</summary>
