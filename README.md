@@ -7,14 +7,14 @@ I'm a Software Engineer with experience spanning startups companies. I have play
 
   <br>
 
-  ![language](https://skillicons.dev/icons?i=cpp,lua,ts,py)
+  ![language](https://skillicons.dev/icons?i=cpp,lua,ts,py,kotlin)
 </details>
 <details>
   <summary>tools</summary>
 
   <br>
 
-  ![tools](https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,visualstudio,robloxstudio&perline=3)
+  ![tools](https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,visualstudio,robloxstudio,androidstudio)
 </details>
 
 [website](https://rizkwya.me) - [instagram](https://www.instagram.com/rizkwya) - [youtube](https://www.youtube.com/@rizkwya)
