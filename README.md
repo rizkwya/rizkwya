@@ -17,4 +17,4 @@ I'm a Software Engineer with experience spanning startups companies. I have play
   ![tools](https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,visualstudio,robloxstudio,androidstudio)
 </details>
 
-[website](https://rizkwya.me) - [instagram](https://www.instagram.com/rizkwya) - [youtube](https://www.youtube.com/@rizkwya)
+[website](https://rizkwya.me) - [youtube](https://www.youtube.com/@rizkwya)
