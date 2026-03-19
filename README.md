@@ -1,4 +1,4 @@
-Hello, I'm **Muhammad Rizki Apriliyanto**
+Hello, I'm **Rizki Apriliyanto**
 
 I'm a Software Architect with experience spanning startups companies. I have played a key role in the entire product design process, from ideation and wireframing to prototyping and final product delivery, all while collaborating efficiently with cross-functional teams.
 
@@ -17,4 +17,4 @@ I'm a Software Architect with experience spanning startups companies. I have pla
   ![tools](https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,visualstudio,robloxstudio,androidstudio)
 </details>
 
-[website](https://www.rizkwya.com) - [youtube](https://www.youtube.com/@rizkwya)
+[website](https://www.rizkwya.com) - [youtube](https://www.youtube.com/@rizkwya) - [instagram](https://www.instagram.com/rizkwya)
