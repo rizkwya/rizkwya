@@ -1,4 +1,4 @@
-Hello, I'm **Rizki Apriliyanto**
+Hello, I'm **Rizk**
 
 I'm a Software Architect with experience spanning startups companies. I have played a key role in the entire product design process, from ideation and wireframing to prototyping and final product delivery, all while collaborating efficiently with cross-functional teams.
 
