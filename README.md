@@ -14,7 +14,7 @@ I’m a Reverse Engineer and Security Researcher. With a background as a Softwar
 
   <br>
 
-  ![tools](https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,visualstudio,robloxstudio,androidstudio)
+  ![tools](https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,visualstudio,androidstudio)
 </details>
 
 [website](https://www.rizkwya.com) - [youtube](https://www.youtube.com/@rizkwya) - [instagram](https://www.instagram.com/rizkwya)
