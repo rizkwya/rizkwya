@@ -1,13 +1,13 @@
-Hello, I'm **Rizk**
+Hello, I'm **Rizki Apriliyanto**
 
-I'm a Software Architect with experience spanning startups companies. I have played a key role in the entire product design process, from ideation and wireframing to prototyping and final product delivery, all while collaborating efficiently with cross-functional teams.
+I’m a Reverse Engineer and Security Researcher. With a background as a Software Architect, I leverage my deep understanding of system design to deconstruct complex binaries, uncover vulnerabilities, and analyze malware. I enjoy peeling back the layers of software to understand the 'how' and 'why' behind the code.
 
 <details>
   <summary>language</summary>
 
   <br>
 
-  ![language](https://skillicons.dev/icons?i=cpp,lua,ts,py,kotlin)
+  ![language](https://skillicons.dev/icons?i=c,cpp,cs,lua,py)
 </details>
 <details>
   <summary>tools</summary>
