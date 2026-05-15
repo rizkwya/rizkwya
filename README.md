@@ -7,14 +7,14 @@ I’m a Reverse Engineer and Security Researcher. With a background as a Softwar
 
   <br>
 
-  ![language](https://skillicons.dev/icons?i=c,cpp,cs,lua,py)
+  ![language](https://skillicons.dev/icons?i=c,cpp,cs,py,lua,java,kotlin)
 </details>
 <details>
   <summary>tools</summary>
 
   <br>
 
-  ![tools](https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,visualstudio,androidstudio)
+  ![tools](https://skillicons.dev/icons?i=windows,kali,ubuntu,apple,vscode,visualstudio,androidstudio)
 </details>
 
 [website](https://www.rizkwya.com) - [youtube](https://www.youtube.com/@rizkwya) - [instagram](https://www.instagram.com/rizkwya)
