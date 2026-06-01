@@ -1,4 +1,4 @@
-Hello, I'm **Rizki Apriliyanto**
+Hello, I'm **Rizk**
 
 I’m a Reverse Engineer and Security Researcher. With a background as a Software Architect, I leverage my deep understanding of system design to deconstruct complex binaries, uncover vulnerabilities, and analyze malware. I enjoy peeling back the layers of software to understand the 'how' and 'why' behind the code.
 
